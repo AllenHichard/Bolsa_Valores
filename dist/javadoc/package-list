@@ -1,0 +1,4 @@
+br.uefs.ecomp.treeStock.facade
+br.uefs.ecomp.treeStock.model
+br.uefs.ecomp.treeStock.model.exception
+br.uefs.ecomp.treeStock.util
